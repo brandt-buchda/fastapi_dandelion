@@ -1,13 +1,14 @@
 # FastApi Dandelion Example
 
 #### Input Image:
-![]("/.dog.png")
+
+![](./dog.png)
 
 #### Prompt:
 What kind of dog is this?
 
 #### Response:
-![]("./swagger_docs.png")
+![](./swagger_docs.png)
 
 
 
